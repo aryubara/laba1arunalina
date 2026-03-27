@@ -3,7 +3,7 @@
 
 using namespace std;
 
-float perimeter(float a, float b) {
+float perimeter(float a, float b) {//периметр
     return 2 * (a + b);
 }
 float square(float a, float b) {
